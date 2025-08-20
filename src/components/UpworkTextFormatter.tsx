@@ -524,7 +524,7 @@ Ready to help you achieve your goals! 💪"
 
                 <div className="relative">
                   <div
-                    className="w-full h-80 lg:h-96 p-6 rounded-2xl border-2 border-gray-200 bg-white text-gray-900 overflow-y-auto whitespace-pre-wrap text-lg leading-relaxed shadow-sm"
+                    className="w-full h-80 lg:h-[480px] p-6 rounded-2xl border-2 border-gray-200 bg-white text-gray-900 overflow-y-auto whitespace-pre-wrap text-lg leading-relaxed shadow-sm"
                     dangerouslySetInnerHTML={{
                       __html:
                         upworkText.replace(/\n/g, "<br />") ||
