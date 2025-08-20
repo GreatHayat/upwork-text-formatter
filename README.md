@@ -2,6 +2,8 @@
 
 Transform your ordinary text into eye-catching, professionally formatted Upwork profiles that stand out from the crowd.
 
+<img width="1742" height="1326" alt="Screenshot 2025-08-20 at 9 13 06 AM" src="https://github.com/user-attachments/assets/7ade5ec0-61f9-4077-9ee9-1cf1b5a030b9" />
+
 ## ✨ Features
 
 - **📝 Text Formatting**: Bold, italic, and underline support using markdown syntax
